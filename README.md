@@ -59,12 +59,6 @@ Desarrollo del proyecto propuesto por ONE (Oracle Next Education) y basado en su
 - Cerrar el programa y mostrar el mensaje<br>
 <img src=https://i.postimg.cc/NGmXGVGH/Resultado-Opcion0-Salir.png>
 
-- 🌟 Consumo api GUTENDEX
-- 🌟 CRUD LIBROS
-- 🌟 MANEJO DATOS DTOS
-- 🌟 JPA
-- 🌟 MYSQL
-
 ## 💻 Tablas DB PostgreSQL:
 <img src=https://i.postimg.cc/ZKJWb5DG/Tabla-Actores-Postgre-SQL.png> <img src=https://i.postimg.cc/VkVvWBLw/Tabla-Libros-Postgre-SQL.png>
 
